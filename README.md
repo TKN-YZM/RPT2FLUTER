@@ -5,7 +5,7 @@
 TodoApp, kişisel görevlerinizi düzenlemenizi ve takip etmenizi sağlayan kullanıcı dostu bir görev listesi uygulamasıdır. [Flutter](https://flutter.dev/) kullanılarak geliştirilmiştir ve basit, modern bir arayüze sahiptir. TodoApp ile görevlerinizi kolayca ekleyebilir, düzenleyebilir ve tamamlanmış olarak işaretleyebilirsiniz. Bilgileriniz kişisel bir veri tabanında (Hive) tutulmatadır. 
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/TKN-YZM/RPT2FLUTTER/blob/main/pic1.jpg" alt="Resim 1" style="width: 30%; height: auto;">
+    <img src="https://github.com/TKN-YZM/RPT2FLUTER/blob/main/pic.jpg" alt="Resim 1" style="width: 30%; height: auto;">
 </div>
 
 ## Özellikler
