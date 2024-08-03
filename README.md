@@ -1,15 +1,25 @@
-# TodoList Uygulaması
+# TodoApp
 
 ## Açıklama
-TodoList Uygulaması, kullanıcıların günlük görevlerini verimli bir şekilde yönetmelerine yardımcı olmak için tasarlanmış basit ve sezgisel bir uygulamadır. Kullanıcılar yeni görevler ekleyebilir, mevcut görevleri düzenleyebilir, silebilir ve tamamlanan görevleri işaretleyebilirler.
+
+TodoApp, kişisel görevlerinizi düzenlemenizi ve takip etmenizi sağlayan kullanıcı dostu bir görev listesi uygulamasıdır. [Flutter](https://flutter.dev/) kullanılarak geliştirilmiştir ve basit, modern bir arayüze sahiptir. TodoApp ile görevlerinizi kolayca ekleyebilir, düzenleyebilir ve tamamlanmış olarak işaretleyebilirsiniz. Bilgileriniz kişisel bir veri tabanında (Hive) tutulmatadır. 
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/TKN-YZM/RPT2FLUTTER/blob/main/pic1.jpg" alt="Resim 1" style="width: 30%; height: auto;">
+</div>
 
 ## Özellikler
-- Yeni görev ekleme
-- Mevcut görevleri düzenleme
-- Görevleri silme
-- Görevleri tamamlandı olarak işaretleme
-- Kullanıcı dostu arayüz
-- Hive ile kalıcı local veri tabanı
+
+- **Görev Ekleme**: Yeni görevler ekleyebilir ve bunları listeye dahil edebilirsiniz.
+- **Görev Düzenleme**: Mevcut görevlerinizi düzenleyebilir ve gerekli değişiklikleri yapabilirsiniz.
+- **Görev Silme**: Artık ihtiyacınız olmayan görevleri kolayca silebilirsiniz.
+- **Görev Tamamlama**: Görevlerinizi tamamlandığında işaretleyerek ilerlemenizi takip edebilirsiniz.
+- **Yerli Veritabanı**: Görevlerinizi saklamak için [Hive](https://pub.dev/packages/hive) veri tabanını kullanır.
+- **Kullanıcı Dostu Arayüz**: Temiz ve modern bir kullanıcı arayüzü ile kullanıcı deneyimini geliştirir.
+
+
+
+
 # OpenWeather API Uygulaması
 
 ## Açıklama
