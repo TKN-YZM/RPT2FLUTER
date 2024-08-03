@@ -5,7 +5,7 @@
 TodoApp, kişisel görevlerinizi düzenlemenizi ve takip etmenizi sağlayan kullanıcı dostu bir görev listesi uygulamasıdır. [Flutter](https://flutter.dev/) kullanılarak geliştirilmiştir ve basit, modern bir arayüze sahiptir. TodoApp ile görevlerinizi kolayca ekleyebilir, düzenleyebilir ve tamamlanmış olarak işaretleyebilirsiniz. Bilgileriniz kişisel bir veri tabanında (Hive) tutulmatadır. 
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/TKN-YZM/RPT2FLUTER/blob/main/pic.jpg" alt="Resim 1" style="width: 60%; height: auto;">
+    <img src="https://github.com/TKN-YZM/RPT2FLUTER/blob/main/pic.jpg" alt="Resim 1" style="width: 90%; height: auto;">
 </div>
 
 ## Özellikler
@@ -24,6 +24,12 @@ TodoApp, kişisel görevlerinizi düzenlemenizi ve takip etmenizi sağlayan kull
 
 ## Açıklama
 OpenWeather API Uygulaması, kullanıcıların seçtikleri şehirlerin hava durumunu görüntülemelerini sağlayan bir uygulamadır. Uygulama, OpenWeatherAPI'yi kullanarak hava durumu verilerini çeker ve kullanıcıya sunar.
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/TKN-YZM/RPT2FLUTER/blob/main/pic2.jpg" alt="Resim 1" style="width: 90%; height: auto;">
+</div>
+
+
 
 ## Özellikler
 - Şehir bazlı hava durumu sorgulama
