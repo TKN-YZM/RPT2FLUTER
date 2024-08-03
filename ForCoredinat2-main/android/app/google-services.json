@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481647971051",
+    "project_id": "weath-app",
+    "storage_bucket": "weath-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481647971051:android:1c5dadb2f2a06606c80cae",
+        "android_client_info": {
+          "package_name": "com.abalcan.wapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8KGfurU8ism1xIJ5Wh_ju8zKqa7Gp3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
